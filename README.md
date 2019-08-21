@@ -3,6 +3,8 @@ Game I've made in Unity. I wanted to make a list of games for my friends and fam
 
 Links in reverse order of completion:
 
+Mazes:		   https://kevin-beck.github.io/Games/Mazes/index.html
+
 ChessFighter:      https://kevin-beck.github.io/Games/ChessFighter/index.html
 
 InverseAstroids:   https://kevin-beck.github.io/Games/InverseAstroids/index.html

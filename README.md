@@ -11,6 +11,7 @@ Below I wanted to make a list of games for my friends and family to play so I'm 
 
 Links in reverse order of completion:
 
+Docksimulator: https://kevin-beck.github.io/Games/Mazes/index.html
 
 Mazes:		   https://kevin-beck.github.io/Games/Mazes/index.html
 

@@ -2,11 +2,15 @@
 Game I've made in Unity.
 
 Current project:
+
 BulletRPG: https://github.com/Kevin-Beck/BulletRPG
 
 Past Projects:
+
 iterMachina: https://github.com/Kevin-Beck/iterMachina
+
 Tower Defense:  https://kevin-beck.github.io/Games/TowerDefense/index.html
+
 Mazes:		   https://kevin-beck.github.io/Games/Mazes/index.html
 
 
